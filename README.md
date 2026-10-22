@@ -1,7 +1,7 @@
 # VideoclubAlixar
 U02-E03 – Trabajo Colaborativo
 #Nombre del proyecto
-VideoClubAlixar
+VideoClubAlixar.
 #Descripcion
 El mejor VideoClub de Sevilla
 #Integrantes
